@@ -234,7 +234,8 @@ This project was built to strengthen my knowledge of:
 
 # 📸 Screenshots
 
-> Screenshots of the application will be added here.
+<img width="946" height="945" alt="image" src="https://github.com/user-attachments/assets/79467e69-7257-47a9-8a92-a1e791239318" />
+
 
 ---
 
