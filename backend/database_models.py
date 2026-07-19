@@ -1,5 +1,6 @@
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, Integer, String ,Float
+from sqlalchemy.ext.declarative import declarative_base # pyright: ignore[reportMissingImports]
+from sqlalchemy import Column, Integer, String ,Float # pyright: ignore[reportMissingImports]
+
 
 
 
